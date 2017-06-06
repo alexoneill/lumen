@@ -3,7 +3,7 @@ Capturing the idea of motion in a desktop art piece
 
 ### Description 
 
-_lumen_ provides a way for capturing the idea of motion in a desktop art piece. Featuring wooden construction, _lumen_ fools the eyes by quickly illuminating parts of complex motion to give the illusion of slow motion.
+_lumen_ provides a way for capturing the idea of motion in a desktop art piece. Featuring wooden construction, the project fools the eyes by quickly illuminating parts of complex motion to give the illusion of slow motion.
 
 Using Arduino 101 and RaspberryPi, _lumen_ connects to your Spotify account to react to music playing through your speakers. When music isn't playing, it remains as a decorative piece, displaying the intricacies of motion within.
 
